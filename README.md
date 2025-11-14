@@ -1,2 +1,2 @@
 # GPU_picker
-a simple JavaScript program that decides which GPU you should buy
+a simple Java program that decides which GPU you should buy Made in Visual Studio
